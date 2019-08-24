@@ -1,0 +1,3 @@
+text created for test no fastforward type merge.
+#############
+####################
